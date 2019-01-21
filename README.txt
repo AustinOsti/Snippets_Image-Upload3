@@ -4,5 +4,5 @@ Note: Local Storage will not work with Heroku. For Heroku deployment and image s
 
 To run:
 
-1. nodemon
+1. npm start
 2. localhost:3000
